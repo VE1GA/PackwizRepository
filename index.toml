@@ -2030,7 +2030,7 @@ metafile = true
 
 [[files]]
 file = "scripts/BanItems.zs"
-hash = "44fb6fefe676fed32185198857376de07d4f5927a9ff136cca4beecea6ed76ee"
+hash = "51cebee53c78479e38b0d0694ee16fc72ddd5eaff2dec78d4fcc7c26980cfe90"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.3.zip.txt"
