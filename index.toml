@@ -791,7 +791,7 @@ hash = "d6deb1c5b85c80369b539e022e75a91854594b4f6457b9697f3aa1251d43a5f4"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "5f2a1afebb15d058bedc9b2fbf5b4ed7e7fe8ec6ca38ce1ed95b2adc85ac24be"
+hash = "941d2790711ca380f0ba7a9bdb8244bb9b7868c0dc5a95801b993f6e00e2210e"
 
 [[files]]
 file = "config/jade/server-plugin-overrides.json"
@@ -919,7 +919,7 @@ hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "6aee0034e7d8a7d3973121e9b0a2f579dfb241e856aeb1ff05755391e5560c76"
+hash = "361bd11d645b2326cbede545d8ad9638540dcea160d870c2e1d382a34df1d900"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -1802,6 +1802,10 @@ hash = "3e8c59c1817babb68d49af1bd816d6d00ffbaa8343968ad324996a0d5deb9c69"
 metafile = true
 
 [[files]]
+file = "mods/reforgedplaymod-1.20.1-0.3.1.jar"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "e242387207a2538b5ccb55697174c65e549e1eb2fef9da37e1ad3734e0372b65"
 metafile = true
@@ -2026,7 +2030,7 @@ metafile = true
 
 [[files]]
 file = "scripts/BanItems.zs"
-hash = "e6f6fce8258914f583937bfbfd002c562ff204fda77750d53c7c15a58a689a0b"
+hash = "44fb6fefe676fed32185198857376de07d4f5927a9ff136cca4beecea6ed76ee"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.3.zip.txt"

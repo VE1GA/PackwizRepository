@@ -7,8 +7,8 @@ Jei.hideIngredient(<item:alexscaves:nuclear_bomb>);
 craftingTable.removeByName("alexscaves:nuclear_bomb");
 
 # Create
-# Jei.hideIngredient(<item:create:schematicannon>);
-# craftingTable.removeByName("create:crafting/schematics/schematicannon");
+Jei.hideIngredient(<item:create:schematicannon>);
+craftingTable.removeByName("create:crafting/schematics/schematicannon");
 
 # Artifacts
 Jei.hideIngredient(<item:artifacts:everlasting_beef>);
