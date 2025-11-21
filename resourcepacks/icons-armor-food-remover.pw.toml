@@ -1,0 +1,13 @@
+name = "Icons - Armor & Food Remover"
+filename = "Icons- Armor  Food Remover v.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47e64014b57f0740b51c7bb26ef06eb34051eb89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7196509
+project-id = 1380475

@@ -1,0 +1,13 @@
+name = "Potions backport"
+filename = "potions_backport-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49929529fd80ef5d5998f4dd868612bf58494997"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5879864
+project-id = 1135271

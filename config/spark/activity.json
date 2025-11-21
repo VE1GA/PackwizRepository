@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "VE1GA",
+      "uniqueId": "a78469ae-0ca7-4a28-988f-c35ffa4d5cc8"
+    },
+    "time": 1763427503317,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/541VoKodXS"
+    }
+  }
+]

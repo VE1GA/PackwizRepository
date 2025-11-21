@@ -1,0 +1,13 @@
+name = "Lucky's Armory"
+filename = "luckys_armory-0.4.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57908156418b0ce55b5640ea7d60b00f60338ee7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6496156
+project-id = 1007669

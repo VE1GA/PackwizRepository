@@ -1,0 +1,11 @@
+name = "LPDF 2025 (clean)"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "81882d030ecfef58fe00fcee4a546cf3f257152222f5adb16e58e27dd6775eed"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
