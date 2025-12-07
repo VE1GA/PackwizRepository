@@ -1462,11 +1462,6 @@ hash = "0971029a9e6cbc93c8fd694f97942c566979973f3d98023b730b1d436f617220"
 metafile = true
 
 [[files]]
-file = "mods/create-stuff-additions.pw.toml"
-hash = "baaedf357e45d8998dd5c81bbd06fc86764728c20d1f61a14f33d9908c393e5a"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
